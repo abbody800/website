@@ -1,9 +1,3 @@
-Var player_1 = prompt("Player1");
-
-
-
-
-
 var xo_click = document.getElementsByClassName("click"),
     xo_array = ["X" , "O"],
     xo_array_counter = 0 ,
